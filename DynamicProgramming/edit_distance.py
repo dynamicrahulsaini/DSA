@@ -20,5 +20,4 @@ def edit_distance(s, t, n=0, m=0, d={}):
 
 
 if __name__ == "__main__":
-    # print(edit_distance(input(), input()))
-    print(edit_distance("editing", "distance"))
+    print(edit_distance(input(), input()))
